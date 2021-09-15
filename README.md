@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srkansakar7
 - 👀 I’m interested in learning everything.
-- 🌱 I’m currently studying BIM @Thames International College
+- 🌱 I’m currently studying in the 4th year of BIM @Thames International College
 - 💞️ I’m looking to collaborate on ---
 - 📫 What I know--> PHP, JS, HTML, CSS, JAVA.
 
